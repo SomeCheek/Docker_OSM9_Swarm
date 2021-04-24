@@ -1,2 +1,2 @@
 # Docker_OSM9_Swarm
-Skript na inštaláciu OSM 9 cez docker swarm.
+Skript na inštaláciu Dockeru a OSM 9 cez docker swarm.
